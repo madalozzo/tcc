@@ -1,0 +1,8 @@
+As placas foram feitas no software Eagle 6.4.0 com licença educacional:
+http://www.cadsoftusa.com/eagle-pcb-design-software/?language=en
+
+Instalação e configuração:
+https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle
+
+library:
+https://www.sparkfun.com/pages/eagle_lib_lightbox
